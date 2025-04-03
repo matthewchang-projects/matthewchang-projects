@@ -2,9 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-
-  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>AWS BGP Site-to-Site VPN</b>
+    - (https://github.com/matthewchang-projects/AWS-BGP-SITE-TO-SITE-VPN)
 
 <h2>📃 Certifications </h2>
 <ul>
@@ -18,6 +17,6 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[instagram]: https://www.instagram.com/matthewwchangg/
+[linkedin]: https://www.linkedin.com/in/matthew-chang-970938326/
 
