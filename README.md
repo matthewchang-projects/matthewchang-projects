@@ -6,11 +6,10 @@
     - (https://github.com/matthewchang-projects/AWS-BGP-SITE-TO-SITE-VPN)
 
 <h2>📃 Certifications </h2>
-<ul>
-  <li><b>CompTIA Security+</li>
-  <li>CompTIA Network+</li>
-  <li>CompTIA A+</li>
-</ul>
+
+- <b>CompTIA Security +
+- CompTIA Network +
+- CompTIA A+ </b>
 
 <h2> 🤳 Connect with me:</h2>
 
