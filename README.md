@@ -1,13 +1,12 @@
 # Hello, I'm Matthew! 
 
 ## 👨‍💻 Cybersecurity Projects:
-
-- <b>AWS BGP Site-to-Site VPN</b>
+- **AWS BGP Site-to-Site VPN**
     - (https://github.com/matthewchang-projects/AWS-BGP-SITE-TO-SITE-VPN)
-- <b>Secure AWS HTTPS Server</b>
+- **Secure AWS HTTPS Server**
     - 
 
-## 📃 Certifications 
+## 📃 Certifications:
 
 - <b> CompTIA Security +
 - CompTIA Network +
